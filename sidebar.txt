@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmf:home|Door43 (zmf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmf|d43-zmf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmf/archive/master.zip|d43-zmf.zip]]
+
+**Recent Changes**
+{{changes>ns = zmf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmf|Ethnologue data]]
+
